@@ -184,7 +184,7 @@
         <p>KisanConnect is Nepal's trusted online marketplace for farmers and agri-enthusiasts.</p>
         <p>We help farmers, suppliers, and buyers connect directly to buy and sell a wide range of farming-related products — from seeds, fertilizers, and tools to modern agricultural equipment.</p>
         <p>Our platform ensures fair prices, reliable delivery, and quality-checked goods that support sustainable agriculture and rural growth across Nepal.</p>
-        <p><b>Developed by:</b> Team AgriVision (Manika Dahal / Anuska Ghimire / Sabina Niraula)</p>
+        <p><b>Developed by:</b> Team AgriVision (Abishika Koirala)</p>
         <a href="products.php" class="btn">🌾 Explore Marketplace</a>
       </div>
 

@@ -111,7 +111,7 @@
       <div class="col2">
         <h1>About Us</h1>
         <p><b>Developed by:</b> Team AgriVision</p>
-        <p>Members: Manika Dahal, Anuska Ghimire, Sabina Niraula</p>
+        <p>Members:Abishika Koirala</p>
         <p>Bsc.CSIT Students, 6th Semester</p>
       </div>
 
